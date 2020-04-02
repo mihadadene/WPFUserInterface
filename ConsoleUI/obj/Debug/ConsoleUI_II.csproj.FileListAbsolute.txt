@@ -1,0 +1,7 @@
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\bin\Debug\ConsoleUI_II.exe.config
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\bin\Debug\ConsoleUI_II.exe
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\bin\Debug\ConsoleUI_II.pdb
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\obj\Debug\ConsoleUI_II.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\obj\Debug\ConsoleUI_II.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\obj\Debug\ConsoleUI_II.exe
+C:\Users\mihadadene\source\repos\TextFilesDataAccessDemo\ConsoleUI_II\obj\Debug\ConsoleUI_II.pdb
